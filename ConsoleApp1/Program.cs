@@ -2,7 +2,6 @@
 // this is another comment line
 // this line will print Hello, Garrett! to the console
 
-using System.Diagnostics;
-
 Console.WriteLine("Hello, Garrett!");
-Console.WriteLine("Hello World!");
+// this line will print Hello World! to the console
+Console.WriteLine("Hello, World!");
