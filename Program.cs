@@ -6,3 +6,4 @@
 Console.WriteLine("Hello, Garrett!");
 // this line will print Hello World! to the console
 Console.WriteLine("Hello, World!");
+// End of the program
