@@ -1,2 +1,4 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+// this is another comment line
+// this line will print Hello, Garrett! to the console
+Console.WriteLine("Hello, Garrett!");
